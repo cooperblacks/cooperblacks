@@ -67,9 +67,9 @@ Magic phrase: `cuprblck`
           srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=cooperblacks&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_dark"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=cooperblacks&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_bright"
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=cooperblacks&utcOffset=-4&border_color=0000&bg_color=0000&theme=nord_bright"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=cooperblacks&utcOffset=8&border_color=0000&bg_color=0000" height="100%" />
+        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=cooperblacks&utcOffset=-4&border_color=0000&bg_color=0000" height="100%" />
       </picture>
     </a></td>
   </tr>
