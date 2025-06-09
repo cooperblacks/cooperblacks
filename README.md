@@ -1,7 +1,3 @@
-```
-Nate, I can see what you're upto 👁️
-```
-
 <div align="center">
 <h2> Technologies I Actually Care About 👨🏻‍💻 </h2> 
 <a href="#">
